@@ -49,6 +49,7 @@ async function run() {
         const amounts = db.collection('SendParcel');
         const agentRequestsCollection = db.collection('agentRequests'); 
 // djdjjdj
+// dddd
         const Application = db.collection('Application');
         const trackingsCollection = db.collection("trackings");
         const paymentsCollection = db.collection('payments');
