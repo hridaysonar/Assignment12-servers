@@ -55,6 +55,7 @@ async function run() {
 // iodoidiojiodiojd
 // dhuhjdjdkdl
 // djdjjdj
+// iddjjdj
         const Application = db.collection('Application');
         const trackingsCollection = db.collection("trackings");
         const paymentsCollection = db.collection('payments');
